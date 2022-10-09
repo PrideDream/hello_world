@@ -1,8 +1,6 @@
 Sorry, I'm a C++ newbie and didn't notice the compiled executable.
+And recently i find the bcpd(compiled executable) in the top directory of the uncompressed folder.
 
-I have three qusetion.
-
-# The first one is installation.
 
 I used the following command to install
 
